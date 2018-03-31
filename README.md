@@ -20,6 +20,10 @@ https://raw.githubusercontent.com/HMBSbige/Text_Translation/master/chndomains.tx
 
 https://raw.githubusercontent.com/HMBSbige/Text_Translation/master/ShadowsocksR/whitelist.acl
 
+## 反向代理ACL
+
+https://raw.githubusercontent.com/chinen95/Text_Translation/master/ShadowsocksR/proxylist.acl
+
 ## bilibili弹幕屏蔽XML
 
 [链接](https://raw.githubusercontent.com/HMBSbige/Text_Translation/master/tv.bilibili.player.xml)
